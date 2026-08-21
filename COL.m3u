@@ -1,207 +1,217 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",AMC HD (1080p) [CLARO-TV]
+#EXTINF:-1 tvg-name="Alerta Bogota (720p) [GEO-BLOCKED]" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/664/fantastica-bogota-1044-fm.953b1280.png" group-title="Noticias",Alerta Bogota (720p) [GEO-BLOCKED]
+https://mdstrm.com/live-stream-playlist/69b2cdf98815b9b6c48c2532.m3u8
+#EXTINF:-1 tvg-name="AMC HD (1080p) [CLARO-TV]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Entretecion",AMC HD (1080p) [CLARO-TV]
 http://138.121.15.230:9002/AMC/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ydoBp3b.png",Avivamiento TV (1080p)
+#EXTINF:-1 tvg-name="Avivamiento TV (1080p)" tvg-logo="https://i.imgur.com/ydoBp3b.png" group-title="Religion",Avivamiento TV (1080p)
 https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w2t8CGT.png",Blu Radio (720p)
+#EXTINF:-1 tvg-name="AXN (1080p) [CLARO-TV]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/AXN_HD_Logo_2015.svg/3840px-AXN_HD_Logo_2015.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Entretecion",AXN (1080p) [CLARO-TV]
+http://138.121.15.230:9002/AXN/index.m3u8
+#EXTINF:-1 tvg-name="Blu Radio (720p)" tvg-logo="https://i.imgur.com/w2t8CGT.png" group-title="Noticias",Blu Radio (720p)
 https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2312Luq.png",Cali TV (1080p)
+#EXTINF:-1 tvg-name="BUM Televisión (720p) [NOT 24/7]" tvg-logo="https://i.imgur.com/I0eGYI0.png" group-title="Religion",BUM Televisión (720p) [NOT 24/7]
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 tvg-name="Cali TV (1080p)" tvg-logo="https://i.imgur.com/2312Luq.png" group-title="Religion",Cali TV (1080p)
 https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YFywPLC.png",Canal 1 (1080p) [GEO-BLOCKED]
+#EXTINF:-1 tvg-name="Canal 1 (1080p) [GEO-BLOCKED]" tvg-logo="https://i.imgur.com/YFywPLC.png" group-title="Nacional",Canal 1 (1080p) [GEO-BLOCKED]
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YFywPLC.png",Canal 1 (720p)
+#EXTINF:-1 tvg-name="Canal 1 (720p)" tvg-logo="https://i.imgur.com/YFywPLC.png" group-title="Nacional",Canal 1 (720p)
 http://179.60.51.134:8888/CANAL-1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YFywPLC.png",Canal 1 (576p)
+#EXTINF:-1 tvg-name="Canal 1 (576p)" tvg-logo="https://i.imgur.com/YFywPLC.png" group-title="Nacional",Canal 1 (576p)
 http://138.121.15.230:9002/CANAL-UNO/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jsuXXIg.png",Canal 13 (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+#EXTINF:-1 tvg-name="Canal 13 (720p)" tvg-logo="https://i.imgur.com/jsuXXIg.png" group-title="Nacional",Canal 13 (720p)
 https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/idayo61.png",Canal 2 Cali (720p)
+#EXTINF:-1 tvg-name="Canal 2 Cali (720p)" tvg-logo="https://i.imgur.com/idayo61.png" group-title="Religion",Canal 2 Cali (720p)
 https://video13.virtualtronics.com/streamer/canal2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Yv8XIGW.png",Canal 2 Alpavisión Neiva (720p)
+#EXTINF:-1 tvg-name="Canal 2 Alpavisión Neiva (720p)" tvg-logo="https://i.imgur.com/Yv8XIGW.png" group-title="Religion",Canal 2 Alpavisión Neiva (720p)
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9BwZyhM.jpg",Canal 55 Telemorisco TV (720p)
+#EXTINF:-1 tvg-name="Canal 55 Telemorisco TV (720p)" tvg-logo="https://i.imgur.com/9BwZyhM.jpg" group-title="Religion",Canal 55 Telemorisco TV (720p)
 http://canal.mediaserver.com.co/live/telemorisco.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/peOIG1F.png",Canal 8 TV+ (720p)
+#EXTINF:-1 tvg-name="Canal 8 TV+ (720p)" tvg-logo="https://i.imgur.com/peOIG1F.png" group-title="Religion",Canal 8 TV+ (720p)
 https://movil.ejeserver.com/live/canal8tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3VnL8dp.png",Canal Congreso (1080p)
+#EXTINF:-1 tvg-name="Canal Congreso (1080p)" tvg-logo="https://i.imgur.com/3VnL8dp.png" group-title="Congresos",Canal Congreso (1080p)
 http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hqfQVrU.png",Canal Institucional (720p)
+#EXTINF:-1 tvg-name="Canal Institucional (720p)" tvg-logo="https://i.imgur.com/hqfQVrU.png" group-title="Nacional",Canal Institucional (720p)
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hqfQVrU.png",Canal Institucional (576p)
+#EXTINF:-1 tvg-name="Canal Institucional (576p)" tvg-logo="https://i.imgur.com/hqfQVrU.png" group-title="Nacional",Canal Institucional (576p)
 http://138.121.15.230:9002/CANAL-INSTITUCIONAL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png",Canal RCN (1080p)
+#EXTINF:-1 tvg-name="Canal RCN (1080p)" tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="Nacional",Canal RCN (1080p)
 http://138.121.15.230:9002/RCN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png",Canal RCN (1080p)
+#EXTINF:-1 tvg-name="Canal RCN (1080p)" tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="Nacional",Canal RCN (1080p)
 http://177.234.249.178:8888/RCN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png",Canal RCN (1080p)
+#EXTINF:-1 tvg-name="Canal RCN (1080p)" tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="Nacional",Canal RCN (1080p)
 http://179.60.51.134:8888/RCN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZS5WTCd.png",Canal TRO (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+#EXTINF:-1 tvg-name="Canal TRO (1080p)" tvg-logo="https://i.imgur.com/ZS5WTCd.png" group-title="Nacional",Canal TRO (1080p)
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vs1H6bK.png",Canal TRO Plus (1080p) [GEO-BLOCKED]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+#EXTINF:-1 tvg-name="Canal TRO Plus (1080p) [GEO-BLOCKED]" tvg-logo="https://i.imgur.com/Vs1H6bK.png" group-title="TDT",Canal TRO Plus (1080p) [GEO-BLOCKED]
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D1s1Q3k.png",Canal Telefamilia (360p) [NOT 24/7]
+#EXTINF:-1 tvg-name="Canal Telefamilia (360p) [NOT 24/7]" tvg-logo="https://i.imgur.com/D1s1Q3k.png" group-title="Religion",Canal Telefamilia (360p) [NOT 24/7]
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pyeBDpg.jpeg",Canal TV3 (720p) [NOT 24/7]
+#EXTINF:-1 tvg-name="Canal TV3 (720p) [NOT 24/7]" tvg-logo="https://i.imgur.com/pyeBDpg.jpeg" group-title="Religion",Canal TV3 (720p) [NOT 24/7]
 https://streaming.telenetdigital.net.co:8086/canal3tv/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SBo3FBY.png",Canal VIP (1080p)
+#EXTINF:-1 tvg-name="Canal VIP (1080p)" tvg-logo="https://i.imgur.com/SBo3FBY.png" group-title="Religion",Canal VIP (1080p)
 https://play.cdn.enetres.net/B9E570CFE54949C7ABB985D4F8F77F7F021/02267/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6GZrrjJ.png",Caracol Noticias Ahora (720p)
+#EXTINF:-1 tvg-name="Caracol Noticias Ahora (720p)" tvg-logo="https://i.imgur.com/6GZrrjJ.png" group-title="Noticias",Caracol Noticias Ahora (720p)
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WbfdJbk.png",Caracol TV (1080p)
+#EXTINF:-1 tvg-name="Caracol TV (1080p)" tvg-logo="https://i.imgur.com/WbfdJbk.png" group-title="Nacional",Caracol TV (1080p)
 http://45.171.108.253:8888/CARACOL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WbfdJbk.png",Caracol TV (1080p)
+#EXTINF:-1 tvg-name="Caracol TV (1080p)" tvg-logo="https://i.imgur.com/WbfdJbk.png" group-title="Nacional",Caracol TV (1080p)
 http://138.121.15.230:9002/CARACOL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WbfdJbk.png",Caracol TV (1080p)
+#EXTINF:-1 tvg-name="Caracol TV (1080p)" tvg-logo="https://i.imgur.com/WbfdJbk.png" group-title="Nacional",Caracol TV (1080p)
 http://177.234.249.178:8888/CARACOL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WbfdJbk.png",Caracol TV (1080p)
+#EXTINF:-1 tvg-name="Caracol TV (1080p)" tvg-logo="https://i.imgur.com/WbfdJbk.png" group-title="Nacional",Caracol TV (1080p)
 http://181.78.17.228:8081/CARACOL-HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WbfdJbk.png",Caracol TV (720p) [GEO-BLOCKED]
+#EXTINF:-1 tvg-name="Caracol TV (720p) [GEO-BLOCKED]" tvg-logo="https://i.imgur.com/WbfdJbk.png" group-title="Nacional",Caracol TV (720p) [GEO-BLOCKED]
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WbfdJbk.png",Caracol TV (720p)
+#EXTINF:-1 tvg-name="Caracol TV (720p)" tvg-logo="https://i.imgur.com/WbfdJbk.png" group-title="Nacional",Caracol TV (720p)
 http://clubtv.link/a2208/key4512/lista.php?c=157&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WbfdJbk.png",Caracol TV (720p)
+#EXTINF:-1 tvg-name="Caracol TV (720p)" tvg-logo="https://i.imgur.com/WbfdJbk.png" group-title="Nacional",Caracol TV (720p)
 http://caracoltvlivehds-lh.akamaihd.net/i/wowzalive_1@126280/index_300_av-b.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WbfdJbk.png",Caracol TV (720p)
+#EXTINF:-1 tvg-name="Caracol TV (720p)" tvg-logo="https://i.imgur.com/WbfdJbk.png" group-title="Nacional",Caracol TV (720p)
 http://179.60.51.134:8888/CARACOL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fww94l9.png",Caracol TV HD2 (1080p)
+#EXTINF:-1 tvg-name="Caracol TV HD2 (1080p)" tvg-logo="https://i.imgur.com/Fww94l9.png" group-title="HD2",Caracol TV HD2 (1080p)
 http://181.78.14.26:4000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",Cinecanal (1080p) [CABLE-EXITO]
+#EXTINF:-1 tvg-name="Cinecanal (1080p) [CABLE-EXITO]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Entretecion",Cinecanal (1080p) [CABLE-EXITO]
 http://45.162.193.35/CINECANAL/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",Cinecanal (1080p) [CLARO-TV]
+#EXTINF:-1 tvg-name="Cinecanal (1080p) [CLARO-TV]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Entretecion",Cinecanal (1080p) [CLARO-TV]
 http://138.121.15.230:9002/CINECANAL/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",Cinecanal (1080p) [TIGO]
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="Cinecanal (1080p) [TIGO]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Entretecion",Cinecanal (1080p) [TIGO]
 http://181.78.79.131:8000/play/a0pp
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/960px-Citytv_logo.svg.png",Citytv (1080p)
+#EXTINF:-1 tvg-name="Citytv (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/960px-Citytv_logo.svg.png" group-title="Nacional",Citytv (1080p)
 http://138.121.15.230:9002/CITY-TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zJAwnvd.png",CNC Bugavisión (720p)
+#EXTINF:-1 tvg-name="Claro Sports MX (1080p)" tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="Deportes",Claro Sports MX (1080p)
+http://200.125.170.122:8000/play/a0dk/index.m3u8
+#EXTINF:-1 tvg-name="Claro Sports CL (1080p)" tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="Deportes",Claro Sports CL (1080p)
+http://200.125.170.122:8000/play/a0dl/index.m3u8
+#EXTINF:-1 tvg-name="CNC Bugavisión (720p)" tvg-logo="https://i.imgur.com/zJAwnvd.png" group-title="CNC",CNC Bugavisión (720p)
 https://video.ejeserver.com/live/cncbuga.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f3c5TIR.png",CNC Medellin (720p)
+#EXTINF:-1 tvg-name="CNC Medellin (720p)" tvg-logo="https://i.imgur.com/f3c5TIR.png" group-title="CNC",CNC Medellin (720p)
 http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sFl4XOp.png",CNC Pasto (720p) [GEO-BLOCKED]
+#EXTINF:-1 tvg-name="CNC Pasto (720p) [GEO-BLOCKED]" tvg-logo="https://i.imgur.com/sFl4XOp.png" group-title="CNC",CNC Pasto (720p) [GEO-BLOCKED]
 https://hvtraficonew.ddns.net/pastocnc9/cnc9/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5vJ0aXH.png",CNC Pereira (720p)
+#EXTINF:-1 tvg-name="CNC Pereira (720p)" tvg-logo="https://i.imgur.com/5vJ0aXH.png" group-title="CNC",CNC Pereira (720p)
 https://cloudvideo.servers10.com:8081/latinchaneltv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NCzpcqm.png",CNC Tulua (1080p)
+#EXTINF:-1 tvg-name="CNC Tulua (1080p)" tvg-logo="https://i.imgur.com/NCzpcqm.png" group-title="CNC",CNC Tulua (1080p)
 https://live.amelbatv.co:81/cnctulualive/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bj7Jd2q.png",Cosmovision (720p)
+#EXTINF:-1 tvg-name="Cosmovision (720p)" tvg-logo="https://i.imgur.com/bj7Jd2q.png" group-title="Religion",Cosmovision (720p)
 https://lbgo.bozztv.com/ssh101/ssh101/Cosmovisión/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XIhCUY9.png",Cristovision (720p)
+#EXTINF:-1 tvg-name="Cristovision (720p)" tvg-logo="https://i.imgur.com/XIhCUY9.png" group-title="Religion",Cristovision (720p)
 https://5fc584f3f19c9.streamlock.net/cristovision/videocristovision/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzP-qvH8-Jwn-Bl5yjs6ydYzFdVfJRvnDqFMQZ0lBEEg&s=10",EnerGeek (720p) [NOT 24/7]
+#EXTINF:-1 tvg-name="EnerGeek (720p) [NOT 24/7]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzP-qvH8-Jwn-Bl5yjs6ydYzFdVfJRvnDqFMQZ0lBEEg&s=10" group-title="Anime",EnerGeek (720p) [NOT 24/7]
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 tvg-logo="",Enlace (1080p) [CLARO-TV]
+#EXTINF:-1 tvg-name="Enlace (1080p) [CLARO-TV]" tvg-logo="https://i.imgur.com/YwUVTmS.png" group-title="Religion",Enlace (1080p) [CLARO-TV]
 http://177.234.249.178:8888/ENLACE/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/EurekaTV.png/revision/latest?cb=20210820125815&path-prefix=es",Eureka (1080p) [GEO-BLOCKED]
+#EXTINF:-1 tvg-name="Eureka (1080p) [GEO-BLOCKED]" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/EurekaTV.png/revision/latest?cb=20210820125815&path-prefix=es" group-title="Infantil",Eureka (1080p) [GEO-BLOCKED]
 https://mdstrm.com/live-stream-playlist/6952e02d19eabace52e2885f.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",FX (1080p) [CABLE-EXITO]
+#EXTINF:-1 tvg-name="FX (1080p) [CABLE-EXITO]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="Entretecion",FX (1080p) [CABLE-EXITO]
 http://45.162.193.35/FX/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NNd1lYl.png",Golden (1080p) [CLARO-TV]
+#EXTINF:-1 tvg-name="Golden (1080p) [CLARO-TV]" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Entretecion",Golden (1080p) [CLARO-TV]
 http://138.121.15.230:9002/GOLDEN/index.m3u8
-#EXTINF:-1 tvg-logo="",La Kalle (720p)
+#EXTINF:-1 tvg-name="La Kalle (720p)" tvg-logo="https://www.tdtparatodos.tv/sites/default/files/la_kalle.png" group-title="Musica",La Kalle (720p)
 https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7ykfjhL/unnamed-removebg.png",Kanal D Drama (1080p)
+#EXTINF:-1 tvg-name="Kanal D Drama (1080p)" tvg-logo="https://i.ibb.co/7ykfjhL/unnamed-removebg.png" group-title="Novelas",Kanal D Drama (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7ykfjhL/unnamed-removebg.png",Kanal D Drama (1080p) [BANTEL]
+#EXTINF:-1 tvg-name="Kanal D Drama (1080p) [BANTEL]" tvg-logo="https://i.ibb.co/7ykfjhL/unnamed-removebg.png" group-title="Novelas",Kanal D Drama (1080p) [BANTEL]
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-name="Canal" group-title="Desconocido",Canal
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/KanalD_principal_SRT/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RWC55w7.png",Memorias Tv (480p)
+#EXTINF:-1 tvg-name="Memorias Tv (480p)" tvg-logo="https://i.imgur.com/RWC55w7.png" group-title="Musica",Memorias Tv (480p)
 https://stmv6.voxtvhd.com.br/memoriastv/memoriastv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tLTQLnv.png",Memorias Classic (480p)
+#EXTINF:-1 tvg-name="Memorias Classic (480p)" tvg-logo="https://i.imgur.com/tLTQLnv.png" group-title="Entretecion",Memorias Classic (480p)
 https://video.xtrematv.com:3576/live/memoriasclassiclive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ohCSMhY.png",Memorias Series (480p)
+#EXTINF:-1 tvg-name="Memorias Series (480p)" tvg-logo="https://i.imgur.com/ohCSMhY.png" group-title="Entretecion",Memorias Series (480p)
 https://rpn3.bozztv.com/ssh101/ssh101/memoriasc2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2fiiNCz.png",Memorias Toons (480p)
+#EXTINF:-1 tvg-name="Memorias Toons (480p)" tvg-logo="https://i.imgur.com/2fiiNCz.png" group-title="Infantil",Memorias Toons (480p)
 https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CSbmQlu.png",Mi Gente TV (720p) [GEO-BLOCKED]
+#EXTINF:-1 tvg-name="Mi Gente TV (720p) [GEO-BLOCKED]" tvg-logo="https://i.imgur.com/CSbmQlu.png" group-title="Musica",Mi Gente TV (720p) [GEO-BLOCKED]
 https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SrMPTfc.png",NTN24 (576p)
+#EXTINF:-1 tvg-name="NTN24 (576p)" tvg-logo="https://i.imgur.com/UoKmSAP.png" group-title="Noticias",NTN24 (576p)
 http://181.78.8.199:8000/play/a0a6/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JoGQqmP.png",Nuestra Tele Internacional (720p)
+#EXTINF:-1 tvg-name="Nuestra Tele Internacional (720p)" tvg-logo="https://i.imgur.com/JoGQqmP.png" group-title="Internacional",Nuestra Tele Internacional (720p)
 http://170.238.200.199/nuestra-tele/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JoGQqmP.png",Nuestra Tele Internacional (576p) [TIGO]
+#EXTINF:-1 tvg-name="Nuestra Tele Internacional (576p) [TIGO]" tvg-logo="https://i.imgur.com/JoGQqmP.png" group-title="Internacional",Nuestra Tele Internacional (576p) [TIGO]
 http://181.78.8.199:8000/play/a0a8/index.m3u8
-#EXTINF:-1 tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/589b13f631f1bebd088ff756.png",Noticias Caracol (720p) 
+#EXTINF:-1 tvg-name="Noticias Caracol (720p)" tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/589b13f631f1bebd088ff756.png" group-title="Noticias",Noticias Caracol (720p)
 https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UoKmSAP.png",RCN HD2 (1080p)
+#EXTINF:-1 tvg-name="RCN HD2 (1080p)" tvg-logo="https://i.imgur.com/SrMPTfc.png" group-title="HD2",RCN HD2 (1080p)
 http://181.78.14.26:4000/play/a07m/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png",RCN Más (1080p)
+#EXTINF:-1 tvg-name="RCN Más (1080p)" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Entretecion",RCN Más (1080p)
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9wxdWNQ.png",RCN Novelas (1080p) [KLICGO]
+#EXTINF:-1 tvg-name="RCN Novelas (1080p) [KLICGO]" tvg-logo="https://i.imgur.com/9wxdWNQ.png" group-title="Novelas",RCN Novelas (1080p) [KLICGO]
 https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9wxdWNQ.png",RCN Novelas (720p)
+#EXTINF:-1 tvg-name="RCN Novelas (720p)" tvg-logo="https://i.imgur.com/9wxdWNQ.png" group-title="Novelas",RCN Novelas (720p)
 http://170.238.200.199/rcn-novelas/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9wxdWNQ.png",RCN Novelas (576p) [TIGO]
+#EXTINF:-1 tvg-name="RCN Novelas (576p) [TIGO]" tvg-logo="https://i.imgur.com/9wxdWNQ.png" group-title="Novelas",RCN Novelas (576p) [TIGO]
 http://181.78.8.199:8000/play/a0a7/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N7VH24E.png",RCN Xtra (1080p)
+#EXTINF:-1 tvg-name="RCN Xtra (1080p)" tvg-logo="https://i.imgur.com/N7VH24E.png" group-title="Entretecion",RCN Xtra (1080p)
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kuqkTMC.png",Red+ (1080p)
+#EXTINF:-1 tvg-name="Red+ (1080p)" tvg-logo="https://i.imgur.com/kuqkTMC.png" group-title="Noticias",Red+ (1080p)
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9x16vl.png",Senal Colombia (1080p)
+#EXTINF:-1 tvg-name="Senal Colombia (1080p)" tvg-logo="https://i.imgur.com/Y9x16vl.png" group-title="Nacional",Senal Colombia (1080p)
 http://209.14.115.253:8081/SENALCOLOMBIA/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9x16vl.png",Senal Colombia (720p)
+#EXTINF:-1 tvg-name="Senal Colombia (720p)" tvg-logo="https://i.imgur.com/Y9x16vl.png" group-title="Nacional",Senal Colombia (720p)
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png",Space HD (1080p) [CLARO-TV]
+#EXTINF:-1 tvg-name="Space HD (1080p) [CLARO-TV]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png" group-title="Entretecion",Space HD (1080p) [CLARO-TV]
 http://138.121.15.230:9002/SPACE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2N9LCES.png",Suram TV (720p)
+#EXTINF:-1 tvg-name="Suram TV (720p)" tvg-logo="https://i.imgur.com/2N9LCES.png" group-title="Musica",Suram TV (720p)
 https://us.streaminghd.cl/suramtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QpDkrmT.png",TCM (1080p) [CLARO-TV]
+#EXTINF:-1 tvg-name="TCM (1080p) [CLARO-TV]" tvg-logo="https://i.imgur.com/QpDkrmT.png" group-title="Entretecion",TCM (1080p) [CLARO-TV]
 http://138.121.15.230:9002/TCM/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gBZFZNv.png",Tele Amiga (480p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+#EXTINF:-1 tvg-name="Tele Amiga (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/gBZFZNv.png" group-title="Religion",Tele Amiga (480p) [Not 24/7]
 https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6WMV2Az.png",Teleantioquia (1080p)
+#EXTINF:-1 tvg-name="Teleantioquia (1080p)" tvg-logo="https://i.imgur.com/6WMV2Az.png" group-title="Nacional",Teleantioquia (1080p)
 http://livestream.com/accounts/9427524/events/3496592/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6WMV2Az.png",Teleantioquia (1080p)
+#EXTINF:-1 tvg-name="Teleantioquia (1080p)" tvg-logo="https://i.imgur.com/6WMV2Az.png" group-title="Nacional",Teleantioquia (1080p)
 http://138.121.15.230:9002/TELEANTIOQUIA/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6WMV2Az.png",Teleantioquia (720p) [GEO-BLOCKED]
+#EXTINF:-1 tvg-name="Teleantioquia (720p) [GEO-BLOCKED]" tvg-logo="https://i.imgur.com/6WMV2Az.png" group-title="Nacional",Teleantioquia (720p) [GEO-BLOCKED]
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+#EXTINF:-1 tvg-name="Canal" group-title="Desconocido",Canal
 https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6WMV2Az.png",Teleantioquia (720p)
+#EXTINF:-1 tvg-name="Teleantioquia (720p)" tvg-logo="https://i.imgur.com/6WMV2Az.png" group-title="Nacional",Teleantioquia (720p)
 https://streaming.teveo.com.co/live/TATV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/28XmS1J.png",Telecafe (1080p)
+#EXTINF:-1 tvg-name="Telecafe (1080p)" tvg-logo="https://i.imgur.com/28XmS1J.png" group-title="Nacional",Telecafe (1080p)
 http://138.121.15.230:9002/TELECAFE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E35cXHt.png",Telecaribe (1080p)
+#EXTINF:-1 tvg-name="Telecaribe (1080p)" tvg-logo="https://i.imgur.com/E35cXHt.png" group-title="Nacional",Telecaribe (1080p)
 http://138.121.15.230:9002/TELECARIBE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2BpgO62.png",Teleenvigado (720p)
+#EXTINF:-1 tvg-name="Teleenvigado (720p)" tvg-logo="https://i.imgur.com/2BpgO62.png" group-title="Religion",Teleenvigado (720p)
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/ow/282895/png/teleislas-colombia-2012-present-logo.png",Teleislas (480p)
+#EXTINF:-1 tvg-name="Teleislas (480p)" tvg-logo="https://iconape.com/wp-content/files/ow/282895/png/teleislas-colombia-2012-present-logo.png" group-title="Nacional",Teleislas (480p)
 https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/ow/282895/png/teleislas-colombia-2012-present-logo.png",Teleislas (360p)
+#EXTINF:-1 tvg-name="Teleislas (360p)" tvg-logo="https://iconape.com/wp-content/files/ow/282895/png/teleislas-colombia-2012-present-logo.png" group-title="Nacional",Teleislas (360p)
 http://cdnvideo.webvideocore.net/live3ch/out_4r27ggewzxycowws80ck/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GnxzRTC.png",Telemedellin (720p)
+#EXTINF:-1 tvg-name="Telemedellin (720p)" tvg-logo="https://i.imgur.com/GnxzRTC.png" group-title="Nacional",Telemedellin (720p)
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+#EXTINF:-1 tvg-name="Canal" group-title="Desconocido",Canal
 https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GnxzRTC.png",Telemedellin (720p)
+#EXTINF:-1 tvg-name="Telemedellin (720p)" tvg-logo="https://i.imgur.com/GnxzRTC.png" group-title="Nacional",Telemedellin (720p)
 https://mdstrm.com/live-stream/5d1f49eab8e8f307348f8f90.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GnxzRTC.png",Telemedellin (576p)
+#EXTINF:-1 tvg-name="Telemedellin (576p)" tvg-logo="https://i.imgur.com/GnxzRTC.png" group-title="Nacional",Telemedellin (576p)
 http://new.livestream.com/accounts/4608897/events/2230380/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GnxzRTC.png",Telemedellin (480p)
+#EXTINF:-1 tvg-name="Telemedellin (480p)" tvg-logo="https://i.imgur.com/GnxzRTC.png" group-title="Nacional",Telemedellin (480p)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/39hy97J.png",Telepacífico (1080p) [GEO-BLOCKED]
+#EXTINF:-1 tvg-name="Telepacífico (1080p) [GEO-BLOCKED]" tvg-logo="https://i.imgur.com/39hy97J.png" group-title="Naciónal",Telepacífico (1080p) [GEO-BLOCKED]
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/39hy97J.png",Telepacífico (1080p)
+#EXTINF:-1 tvg-name="Telepacífico (1080p)" tvg-logo="https://i.imgur.com/39hy97J.png" group-title="Nacional",Telepacífico (1080p)
 http://138.121.15.230:9002/TELEPACIFICO/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kVHJU5V.png",Televid (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+#EXTINF:-1 tvg-name="Televid (1080p)" tvg-logo="https://i.imgur.com/kVHJU5V.png" group-title="Religion",Televid (1080p)
 https://liveingesta118.cdnmedia.tv/televidtvlive/smil:rtmp01.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png",TNT (1080p) [CLARO-TV]
+#EXTINF:-1 tvg-name="TNT (1080p) [CLARO-TV]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Entretecion",TNT (1080p) [CLARO-TV]
 http://138.121.15.230:9002/TNT/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/TNT_Series_2025.svg/1920px-TNT_Series_2025.svg.png",TNT Series (1080p) [CLARO-TV]
+#EXTINF:-1 tvg-name="TNT Series (1080p) [CLARO-TV]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/TNT_Series_2025.svg/1920px-TNT_Series_2025.svg.png" group-title="Entretecion",TNT Series (1080p) [CLARO-TV]
 http://138.121.15.230:9002/TNT-SERIES/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kady79t.jpg",UAO Play (1080p)
+#EXTINF:-1 tvg-name="UAO Play (1080p)" tvg-logo="https://i.imgur.com/kady79t.jpg" group-title="Religion",UAO Play (1080p)
 https://live-edge-rbx-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-1500/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9tZae88.png",Veo Televisión (720p) [NOT 24/7]
+#EXTINF:-1 tvg-name="Une TV Manizales (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/UNEEPMLOGO.svg/3840px-UNEEPMLOGO.svg.png" group-title="Canales UNE TV",Une TV Manizales (720p)
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8
+#EXTINF:-1 tvg-name="Une TV Caribe (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/UNEEPMLOGO.svg/3840px-UNEEPMLOGO.svg.png" group-title="Canales UNE TV",Une TV Caribe (720p)
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEQ/tu1_1.m3u8
+#EXTINF:-1 tvg-name="Une TV Armenia (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/UNEEPMLOGO.svg/3840px-UNEEPMLOGO.svg.png" group-title="Canales UNE TV",Une TV Armenia (720p)
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEA/tu1_1.m3u8
+#EXTINF:-1 tvg-name="Veo Televisión (720p) [NOT 24/7]" tvg-logo="https://i.imgur.com/9tZae88.png" group-title="Religion",Veo Televisión (720p) [NOT 24/7]
 https://movil.ejeserver.com/live/veotv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DuSSrHV.png",Win Sports (1080p)
+#EXTINF:-1 tvg-name="Win Sports (1080p)" tvg-logo="https://i.imgur.com/DuSSrHV.png" group-title="Deportes",Win Sports (1080p)
 http://138.121.15.230:9002/WIN-SPORT/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0UN87vB.png",Win + Fútbol (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="Win + Fútbol (720p)" tvg-logo="https://i.imgur.com/0UN87vB.png" group-title="Deportes",Win + Fútbol (720p)
 http://181.78.79.131:8000/play/a0n1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/euy5zp6.png",Zoom (1080p)
-#EXTVLCOPT:http-referrer=https://canalzoom.org/senal-en-vivo
+#EXTINF:-1 tvg-name="Zoom (1080p)" tvg-logo="https://i.imgur.com/euy5zp6.png" group-title="Religion",Zoom (1080p)
 https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
